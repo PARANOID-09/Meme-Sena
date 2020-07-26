@@ -1,13 +1,12 @@
 {
   "android_play_store_link": "https://play.google.com/store/apps/details?id=com.msm.MemeSena",
   "sticker_packs":{
-      "identifier": "Meme Sena Classics",
-      "name": "Meme Sena Special  ",
+      "identifier": "1",
+      "name": "Meme Sena Special",
 
       "publisher": "MEME SENA",
       "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Meme%20Sena%20Classics/memesena1.png",
       "image_data_version":"1",
-      "avoid_cache":false,
       "publisher_email": "info@memesena.com",
       "publisher_website": "memesena.com",
       "privacy_policy_website": "https://memesena.com/privacy-policy/",
