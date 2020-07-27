@@ -1,0 +1,3778 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.msm.MemeSena",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Meme Sena Special ",
+
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena1.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena2.webp",
+          "emojis": ["ðŸ™‚"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena26.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena27.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena28.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/memesena29.webp",
+          "emojis": ["📱","😦"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wholesome Cats",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats1.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cats21.webp",
+          "emojis": ["🖐","🙋"]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wholesome Dogs",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs29.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs1.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs26.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs27.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogs28.webp",
+          "emojis": ["📱","😦"]
+        }
+
+      ]
+    },
+
+
+    {
+      "identifier": "5",
+      "name": "Pepe 1",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe10.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe1.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe2.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe4.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe5.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe7.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe8.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe10.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe12.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe13.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe14.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe15.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe16.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe18.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe19.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe20.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe21.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe22.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe23.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe24.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe25.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe26.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe27.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe28.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe29.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pepe30.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Pepe 2",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep26.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep27.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep28.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep29.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pep30.webp",
+          "emojis": ["📱","😦"]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Sad Reacts",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad1.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sad25.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+
+
+    {
+      "identifier": "8",
+      "name": "Doge 1",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge1.png",
+     "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge2.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge31.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge4.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge5.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge7.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge8.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge10.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge12.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge13.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge14.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge15.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge16.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge18.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge19.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge20.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge21.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge22.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge23.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge24.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge25.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge26.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge27.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge28.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge29.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/doge30.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Doge 2",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge10.png",
+     "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge1.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge2.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge4.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge5.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge7.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge8.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge30.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge12.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge13.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge14.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge15.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge16.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge18.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge19.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge20.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge21.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge22.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge23.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge24.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge25.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge26.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge27.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge28.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/dogge29.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "wojak 1",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak1.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak2.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak4.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak5.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak7.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak8.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak10.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak12.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak13.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak14.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak15.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak16.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak18.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak19.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak20.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak21.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak22.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak23.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak24.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak25.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak26.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak27.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak28.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak29.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wojak30.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/wholesome Xxxtentacion",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx1.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx26.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx27.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx28.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/xxx29.webp",
+          "emojis": ["📱","😦"]
+        }
+
+      ]
+    },
+
+
+    {
+      "identifier": "12",
+      "name": "wojak 2",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whojak.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whojak1.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whojak2.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whojak3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whojak4.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whojak5.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whojak6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whojak7.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whojak8.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whojak9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whojak10.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whojak11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whojak12.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    
+    {
+      "identifier": "13",
+      "name": "anime",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime2.webp",
+          "emojis": ["😄","😀"]
+        },
+
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime16.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime17.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime18.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime19.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime20.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/anime21.webp",
+          "emojis": ["💻","😩"]
+        }
+
+
+
+      ]
+    },
+    {
+      "identifier": "14",
+      "name": "Trap Cards",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards43.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards26.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards27.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards28.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards29.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/cards30.webp",
+          "emojis": ["📱","😦"]
+        }
+      ]
+    },
+    {
+      "identifier": "15",
+      "name": "wholesome",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole26.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole27.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole28.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole29.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/whole30.webp",
+          "emojis": ["📱","😦"]
+        }
+      ]
+    },
+    {
+      "identifier": "16",
+      "name": "Reaxx",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect26.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect27.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect28.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/rect29.webp",
+          "emojis": ["📱","😦"]
+        }
+      ]
+    },
+    {
+      "identifier": "17",
+      "name": "Carryminati",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry10.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry1.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry2.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry4.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry5.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry7.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry8.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry31.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry12.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry13.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry14.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry15.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "pichttps://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry16.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry18.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry19.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry20.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry21.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry22.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry23.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry24.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry25.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry26.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry27.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry28.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry29.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/carry30.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "18",
+      "name": "Web Series",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series11.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series1.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series2.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series4.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series5.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series7.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series8.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series10.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series21.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series12.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series13.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series14.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series15.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series16.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series18.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series19.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/series20.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "19",
+      "name": "Phir Hera Pheri",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php10.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php1.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php2.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php4.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php5.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php7.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php8.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php31.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php12.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php13.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php14.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php15.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php16.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php18.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php19.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php20.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php21.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php22.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php23.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php24.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php25.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php26.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php27.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php28.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php29.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/php30.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "20",
+      "name": "TMKOC",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic1.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic01.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic02.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic03.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic04.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic05.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic06.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic07.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic08.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic09.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic10.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic12.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic13.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic14.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic15.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic16.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic18.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic19.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/pic20.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "21",
+      "name": "emotes 1",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote25.webp",
+          "emojis": ["🔋","😵"]
+        }
+
+      ]
+    },
+    {
+      "identifier": "22",
+      "name": "Salman Bhai",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu20.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu21.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/sallu22.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "23",
+      "name": "Poppy Cats",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy1.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy26.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy27.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy28.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy29.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy30.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/poppy31.webp",
+          "emojis": ["☕","🙂"]
+        }
+      ]
+    },
+
+
+
+    {
+      "identifier": "24",
+      "name": "emotes 2",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emote1.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emot1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emot2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emot3.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emot4.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emot5.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emot6.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emot7.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emot8.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emot9.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emot10.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emot11.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emot12.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/emot13.webp",
+          "emojis": [
+            "❓",
+            "🤔"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "25",
+      "name": "Extras 1",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other8.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other1.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other4.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other5.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other7.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other10.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other14.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other15.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other16.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other18.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other19.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other20.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other21.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other22.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other23.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other24.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other25.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other26.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other27.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/other2.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "26",
+      "name": "Extras 2",
+      "publisher": "MEME SENA",
+      "tray_image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others2.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "info@memesena.com",
+      "publisher_website": "https://memesena.com",
+      "privacy_policy_website": "https://memesena.com/privacy-policy/",
+      "license_agreement_website": "https://memesena.com/terms-and-conditions/",
+      "stickers": [
+
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others1.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others4.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others5.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others7.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others10.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others14.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others15.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others16.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others18.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others19.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others20.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others21.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others22.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/PARANOID-09/Meme-Sena/master/Stickers/others23.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}
